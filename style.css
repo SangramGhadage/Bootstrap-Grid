@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin-top: 2px;
+}
+
+.container-fluid{
+    background-color: aquamarine;
+    color: black;
+    height: 80px;
+    margin: auto;
+}
+.container{
+    color: brown;
+    background-color: cornflowerblue;
+    height: 250px;
+}
+.col-md-4{
+    height: 200px;
+
+}
+.col-md-6{
+    height: 100px;
+}
